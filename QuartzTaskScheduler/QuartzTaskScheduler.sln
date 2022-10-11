@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzTaskScheduler", "QuartzTaskScheduler\QuartzTaskScheduler.csproj", "{B689C3CA-F247-4ECF-8125-F4B4973661A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B689C3CA-F247-4ECF-8125-F4B4973661A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B689C3CA-F247-4ECF-8125-F4B4973661A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B689C3CA-F247-4ECF-8125-F4B4973661A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B689C3CA-F247-4ECF-8125-F4B4973661A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
